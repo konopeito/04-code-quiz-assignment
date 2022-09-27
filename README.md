@@ -33,11 +33,13 @@ THEN I can save my initials and my score
 ```
 
 ## Mock-Up
-
+https://github.com/JFritsch04/04-code-quiz-assignment/blob/3de607434cd7f1c963c77afb409a70c9014deb63/assets/127.0.0.1_5500_homework_04-web-api-codequiz_index.html%20(1).png
+https://github.com/JFritsch04/04-code-quiz-assignment/blob/3de607434cd7f1c963c77afb409a70c9014deb63/assets/127.0.0.1_5500_homework_04-web-api-codequiz_index.html%20(2).png
 
 
 ## Review
-
+https://github.com/JFritsch04/04-code-quiz-assignment
+https://jfritsch04.github.io/04-code-quiz-assignment/
 
 
 ---
