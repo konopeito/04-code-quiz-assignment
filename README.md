@@ -41,4 +41,6 @@ THEN I can save my initials and my score
 
 
 ---
-
+## Refrences & Credit
+followed code tutorial on CodingNepal YT
+https://www.youtube.com/watch?v=WUBhpSRS_fk
